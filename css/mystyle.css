@@ -1,0 +1,134 @@
+.main-logo{
+width:152px;
+}
+.header-bg{
+    background:rgba(0, 0, 0, 0.9);
+    height:92px;
+    
+}
+.myform{
+	width:500px;
+	padding: 2em 1em;
+	height:31em;
+	background:#fff;
+}
+.myform h3{
+	font-size: 18px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #999;
+	text-align:center;
+}
+.iframe{
+	padding: 2em 1em;
+	height:31em;
+	background:#fff;
+}
+.iframe h3{
+	font-size: 18px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #999;
+}
+
+
+#feature {
+    background-image: url('./../img/featue-bg.jpg');
+    background-position: 50% 94px;
+    width: 100%;
+    display: block;
+    position: relative;
+    overflow: visible;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #fff;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    padding: 100px 0;
+}
+.btn-view-works{
+
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 32px;
+    
+    transition: 0.5s;
+    margin: 10px;
+	color: #18d26e;
+    background: #fff;
+    
+}
+.btn-view-works:hover{
+	color: #fff;
+    background: #18d26e;
+}
+.mybtn{
+    font-family: "Montserrat", sans-serif;
+	text-transform:uppercase;
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 2px 15px;
+    transition: 0.5s;
+    margin: 0 10px;
+	color: #111;
+    /* background: #18d26e; */
+    background: #fff;
+    
+}
+.mybtn:hover{
+	color: #fff;
+    background: #18d26e;
+	
+}
+.main-color{color: #18d26e;}
+.aboutus{
+	 padding: 60px 0 40px 0;
+}
+.about-gt{
+    background: #fff;
+    background-size: cover;
+    padding: 60px 0 40px 0;
+}
+.header-shadow{
+	    border-bottom: 1px solid #ddd;
+box-shadow:0 3px 2px -2px rgba(200,200,200,0.2);	
+}
+
+#services .service-item {
+    padding-bottom: 100px;
+    cursor: pointer;
+    margin: 20px;
+    padding: 25px;
+	color:#fff;
+    border-radius: 5px;
+    background: #18d26e;
+	transition: transform 2s ease-in-out;
+}
+#services .service-item:hover {
+	    opacity: 1.00;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.15);
+}
+#services .service-item  h4{
+	font-weight:700;
+	font-size:16px;
+}
+
+.form-padd{
+	    padding: .675rem .75rem !important;
+}
